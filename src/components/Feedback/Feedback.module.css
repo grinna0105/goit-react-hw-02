@@ -1,0 +1,12 @@
+.feedback {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    margin-top: 0;
+    margin-left: 8px;
+  }
+
+  .feedbackList {
+    line-height: 1.8;
+    padding-left: 0px;
+  }
